@@ -1,0 +1,19 @@
+1000
+1
+1
+roll
+1
+1
+dice 2 2
+roll
+1
+1
+hint
+pip
+double
+refuse
+1
+1
+double
+accept
+quit

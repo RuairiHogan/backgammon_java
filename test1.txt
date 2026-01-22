@@ -1,0 +1,8 @@
+roll
+1
+2
+double
+accept
+roll
+2
+3
